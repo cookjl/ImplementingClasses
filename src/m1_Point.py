@@ -1085,7 +1085,7 @@ def run_test_halfway_to():
         print('Should be: Point(-10.0, 20.0)')
         print('Actual is:', p3.halfway_to(p3))
 
-    """
+    """''
     # ------------------------------------------------------------------
     # Done: 13.  Follow the same instructions as in Done 3 above,
     #    but for the  halfway_to  method specified above.
